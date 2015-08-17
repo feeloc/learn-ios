@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/.idea">
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/CALayerLearn">
+      <sourceFolder url="file://$MODULE_DIR$/CALayerLearn" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/CAShapeLayerLearn">
+      <sourceFolder url="file://$MODULE_DIR$/CAShapeLayerLearn" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/learn-ios.xcworkspace">
+      <sourceFolder url="file://$MODULE_DIR$/learn-ios.xcworkspace" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

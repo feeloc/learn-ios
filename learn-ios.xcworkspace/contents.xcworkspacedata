@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CAShapeLayerLearn/CAShapeLayerLearn.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CALayerLearn/CALayerLearn.xcodeproj">
    </FileRef>
 </Workspace>

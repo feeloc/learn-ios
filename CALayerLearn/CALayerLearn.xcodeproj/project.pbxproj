@@ -416,6 +416,7 @@
 				51A95D421B81BA5C00786972 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		51A95D431B81BA5C00786972 /* Build configuration list for PBXNativeTarget "CALayerLearnTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				51A95D451B81BA5C00786972 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
