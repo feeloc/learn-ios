@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ProgressView.h
 //  CALayerLearn
 //
 //  Created by hujianmeng on 15/8/17.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ProgressView : UIView
+@property(nonatomic, assign) CGFloat progress; //进度参数百分比
 @end
-
