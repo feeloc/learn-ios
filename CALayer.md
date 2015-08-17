@@ -32,7 +32,7 @@
 
 ```
 
-二、显示动画
+二、CALayer封装加载动画
 ```objective-c
 
 @interface ProgressView ()
@@ -90,3 +90,9 @@
 @end
 
 ```
+
+三、UIImageView中的CALayer
+* 操作UIImageView的CALayer的bounds值进行显式动画
+* 修改UIImageView的CALayer的content值切换图片动画
+* 用CAAnimationGroup将bounds动画与contents动画结合
+* 封装UIView的子类成组件

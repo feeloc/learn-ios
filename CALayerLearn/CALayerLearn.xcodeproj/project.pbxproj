@@ -15,6 +15,8 @@
 		51A95D311B81BA5C00786972 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 51A95D2F1B81BA5C00786972 /* LaunchScreen.xib */; };
 		51A95D3D1B81BA5C00786972 /* CALayerLearnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A95D3C1B81BA5C00786972 /* CALayerLearnTests.m */; };
 		51A95DB51B81CBDC00786972 /* ProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A95DB41B81CBDC00786972 /* ProgressView.m */; };
+		628ED4FF8EB5325FF059021B /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 628EDF917DC9E708371E6117 /* 2.jpg */; };
+		628EDB7B5E827B9B1C703FBB /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 628ED61CC83C1EB6D06A313A /* 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +45,8 @@
 		51A95D3C1B81BA5C00786972 /* CALayerLearnTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayerLearnTests.m; sourceTree = "<group>"; };
 		51A95DB31B81CBDC00786972 /* ProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressView.h; sourceTree = "<group>"; };
 		51A95DB41B81CBDC00786972 /* ProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressView.m; sourceTree = "<group>"; };
+		628ED61CC83C1EB6D06A313A /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		628EDF917DC9E708371E6117 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,8 @@
 				51A95D201B81BA5C00786972 /* Supporting Files */,
 				51A95DB31B81CBDC00786972 /* ProgressView.h */,
 				51A95DB41B81CBDC00786972 /* ProgressView.m */,
+				628EDF917DC9E708371E6117 /* 2.jpg */,
+				628ED61CC83C1EB6D06A313A /* 3.jpg */,
 			);
 			path = CALayerLearn;
 			sourceTree = "<group>";
@@ -207,6 +213,8 @@
 				51A95D2C1B81BA5C00786972 /* Main.storyboard in Resources */,
 				51A95D311B81BA5C00786972 /* LaunchScreen.xib in Resources */,
 				51A95D2E1B81BA5C00786972 /* Images.xcassets in Resources */,
+				628ED4FF8EB5325FF059021B /* 2.jpg in Resources */,
+				628EDB7B5E827B9B1C703FBB /* 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
